@@ -1,0 +1,12 @@
+
+*.opd
+
+*.opp
+
+*.sm2d
+
+*.sm2p
+
+*.opa
+
+\.DS_Store
