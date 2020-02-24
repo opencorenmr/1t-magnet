@@ -10,7 +10,7 @@ transform F1Freq=#+180;
 
 CLK=160;  // PPG Clock frequency 
 
-freq f1=42.708; 
+freq f1=42.98; 
 freq f1Offset_kHz=0; 
 
 amp a=60; 
@@ -18,7 +18,7 @@ phase ph=90;
 
 
 time pw1=12u; 
-time tau=2m; 
+time tau=1m; 
 time pw2=24u; 
 time rd=5u(receiver delay); 
 time ad=5u(acquisition delay); 
@@ -30,7 +30,7 @@ const int AD9858_2GHZ_DISABLE=16472;
 //-----  aux parameters  -----
 aux PD=0.1s(Pulse Delay); 
 aux NA=100(Number of Accum); 
-aux DW=5u(DWell time); 
+aux DW=2u(DWell time); 
 aux AL=8192(Acquisition Length); 
 aux ND=0(Number of Dummy scans); 
 

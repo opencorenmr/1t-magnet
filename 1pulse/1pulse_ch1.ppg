@@ -10,12 +10,12 @@ transform F1Freq=#+180;
 
 CLK=160;  // PPG Clock frequency 
 
-freq f1=42.71; 
+freq f1=42.98; 
 freq f1Offset_kHz=0; 
 
 amp a=60; 
 
-time pw1=12u; 
+time pw1=15u; 
 time rd=5u(receiver delay); 
 time ad=5u(acquisition delay); 
 
@@ -24,7 +24,7 @@ const int AD9858_2GHZ_DISABLE=16472;
 // so that it does not appear in the variable edit table.
 
 //-----  aux parameters  -----
-aux PD=0.1s(Pulse Delay); 
+aux PD=0.05s(Pulse Delay); 
 aux NA=100(Number of Accum); 
 aux DW=5u(DWell time); 
 aux AL=1024(Acquisition Length); 

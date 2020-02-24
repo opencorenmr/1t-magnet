@@ -27,7 +27,7 @@ nameLineEdit=spin-echo
 numberOfImportedFiles=0
 obsFreqCheckBox=true
 obsFreqComboBox=0
-obsFreqLineEdit=42.71
+obsFreqLineEdit=42.98
 ppgFilename=spinEcho_ch1.ppg
 saveAsciiCheckBox=false
 
@@ -39,7 +39,7 @@ ND=0
 PD=0.1
 a=60
 ad=5
-f1=42.71
+f1=42.98
 f1Offset_kHz=0
 names=f1, f1Offset_kHz, a, ph, pw1, tau, pw2, rd, ad, PD, NA, DW, AL, ND
 ph=90

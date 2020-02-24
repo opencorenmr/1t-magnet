@@ -27,26 +27,26 @@ nameLineEdit=cpmg
 numberOfImportedFiles=0
 obsFreqCheckBox=true
 obsFreqComboBox=0
-obsFreqLineEdit=42.708
+obsFreqLineEdit=42.98
 ppgFilename=cpmg_ch1.ppg
 saveAsciiCheckBox=true
 
 [Variables]
 AL=8192
-DW=5
+DW=2
 NA=100
 ND=0
 PD=0.1
 a=60
 ad=5
-f1=42.708
+f1=42.98
 f1Offset_kHz=0
 names=f1, f1Offset_kHz, a, ph, pw1, tau, pw2, rd, ad, PD, NA, DW, AL, ND
 ph=90
 pw1=12
 pw2=24
 rd=5
-tau=2
+tau=1
 
 [xAxis]
 customAxisRadioButton=false
