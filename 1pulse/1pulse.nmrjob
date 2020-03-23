@@ -27,7 +27,7 @@ nameLineEdit=1pulse
 numberOfImportedFiles=0
 obsFreqCheckBox=true
 obsFreqComboBox=0
-obsFreqLineEdit=42.98
+obsFreqLineEdit=42.875
 ppgFilename=1pulse_ch1.ppg
 saveAsciiCheckBox=false
 
@@ -39,7 +39,7 @@ ND=0
 PD=0.05
 a=60
 ad=5
-f1=42.98
+f1=42.875
 f1Offset_kHz=0
 names=f1, f1Offset_kHz, a, pw1, rd, ad, PD, NA, DW, AL, ND
 pw1=15
